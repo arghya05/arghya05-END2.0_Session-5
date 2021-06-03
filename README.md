@@ -1,8 +1,6 @@
 
 ### Submission by:
-1. Sachin Dangayach (sachin.dangayach@gmail.com)
 
-***[Link for colab file](https://colab.research.google.com/drive/13-mpSe80XXG69Pz3y1SOP7HQmekAyggw?usp=sharing)***
 
 # Objective
 
